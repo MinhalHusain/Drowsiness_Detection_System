@@ -17,7 +17,7 @@ There is a strong need for a **real-time, automated, and intelligent system** th
 ## 💡 Our Solution
 
 This project implements a **real-time drowsiness detection system** using **Deep Learning and Computer Vision**.
-[**Working Video**](https://drive.google.com/file/d/1709dSFnQ9fJBZ7r-8wO_wv-OWVcCkmqz/view?usp=sharing)
+[**Working Video**](https://drive.google.com/file/d/17plu9QvZDoBmOS-e43iu3kOzNvllW2Fn/view?usp=sharing)
 ### Key Idea
 
 * Train a **binary image classification model** (`Awake` vs `Drowsy`)
@@ -69,11 +69,10 @@ Alert Trigger (if drowsy persists)
 ## 📂 Project Structure
 
 ```
-├── datapreprocessing.py        # Dataset loading & preprocessing
-├── ResNetmodel.py              # Model training & saving
-├── runmodel.py                 # Real-time webcam inference
-├── requirements.txt            # Project dependencies
-├── drowsiness_detection_model.pth  # Trained model (generated)
+├── Data PreProcessing/
+├── Dataset/
+├── Model/
+├── Model Training/
 └── README.md
 ```
 
