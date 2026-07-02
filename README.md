@@ -188,3 +188,12 @@ Controls:
 * Driver fatigue analytics dashboard
 
 ---
+
+## Contributors
+
+* Minhal Husain
+* Garvit Audichya
+
+This project was developed collaboratively as part of an academic project.
+
+---
