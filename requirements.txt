@@ -1,0 +1,16 @@
+# Core ML / Deep Learning
+torch>=1.13
+torchvision>=0.14
+
+# Image processing
+Pillow>=9.0.0
+numpy>=1.21
+
+# Computer Vision
+opencv-python>=4.7.0
+
+# Dataset utilities (used in preprocessing / training)
+scikit-learn>=1.1
+
+# Optional but recommended
+tqdm>=4.64
