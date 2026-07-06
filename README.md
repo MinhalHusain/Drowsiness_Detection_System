@@ -1,3 +1,12 @@
+# Driver Drowsiness Detection System
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?logo=opencv)
+![License](https://img.shields.io/github/license/MinhalHusain/Drowsiness_Detection_System)
+![Last Commit](https://img.shields.io/github/last-commit/MinhalHusain/Drowsiness_Detection_System)
+
+
 # 🚗 Real-Time Driver Drowsiness Detection System
 
 ## 📌 Problem Statement
